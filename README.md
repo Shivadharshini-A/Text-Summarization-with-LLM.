@@ -1,6 +1,6 @@
 # Text Summarization with LLM
 
-**Tagline:** Summarizing text using transformer-based large language models.  
+**Tagline:** Summarizing text using transformer-based large language models. 
 
 ---
 
